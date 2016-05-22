@@ -1,2 +1,2 @@
-# mne-cpp-test-data
-MNE-CPP test data
+# MNE-CPP Test Data
+Small data set for MNE-CPP Continuous Integration
