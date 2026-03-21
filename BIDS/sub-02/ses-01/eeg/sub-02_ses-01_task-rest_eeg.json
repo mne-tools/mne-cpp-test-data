@@ -1,0 +1,13 @@
+{
+    "TaskName": "rest",
+    "SamplingFrequency": 128.0,
+    "PowerLineFrequency": 50.0,
+    "EEGReference": "common average",
+    "EEGChannelCount": 19,
+    "EOGChannelCount": 2,
+    "ECGChannelCount": 2,
+    "MiscChannelCount": 2,
+    "RecordingType": "continuous",
+    "Manufacturer": "Unknown",
+    "TaskDescription": "Resting state with eyes closed"
+}

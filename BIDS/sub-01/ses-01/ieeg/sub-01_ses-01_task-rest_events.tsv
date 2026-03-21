@@ -1,0 +1,5 @@
+onset	duration	sample	value	trial_type
+0.000000	0.000000	0	1	stimulus
+1.500000	0.500000	1500	2	response
+3.000000	0.000000	3000	1	stimulus
+5.250000	0.750000	5250	3	feedback

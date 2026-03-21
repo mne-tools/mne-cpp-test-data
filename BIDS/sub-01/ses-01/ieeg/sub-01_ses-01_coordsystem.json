@@ -1,0 +1,7 @@
+{
+    "iEEGCoordinateSystem": "ACPC",
+    "iEEGCoordinateUnits": "m",
+    "iEEGCoordinateSystemDescription": "ACPC landmark-based coordinates",
+    "iEEGCoordinateProcessingDescription": "Coregistration with pre-op MRI",
+    "IntendedFor": "sub-01/ses-01/anat/sub-01_ses-01_T1w.nii.gz"
+}

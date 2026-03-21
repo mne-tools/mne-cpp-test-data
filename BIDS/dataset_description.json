@@ -1,0 +1,6 @@
+{
+    "Name": "MNE-CPP Test Dataset",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "License": "CC0"
+}
