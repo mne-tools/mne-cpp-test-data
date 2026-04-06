@@ -1,0 +1,26 @@
+name	type	units	sampling_frequency	low_cutoff	high_cutoff	notch	status	description
+EEG Fp1	EEG	µV	128	n/a	n/a	n/a	good	ElectroEncephaloGram
+EEG Fp2	EEG	µV	128	n/a	n/a	n/a	good	ElectroEncephaloGram
+EEG F7	EEG	µV	128	n/a	n/a	n/a	good	ElectroEncephaloGram
+EEG F3	EEG	µV	128	n/a	n/a	n/a	good	ElectroEncephaloGram
+EEG Fz	EEG	µV	128	n/a	n/a	n/a	good	ElectroEncephaloGram
+EEG F4	EEG	µV	128	n/a	n/a	n/a	good	ElectroEncephaloGram
+EEG F8	EEG	µV	128	n/a	n/a	n/a	good	ElectroEncephaloGram
+EEG T3	EEG	µV	128	n/a	n/a	n/a	good	ElectroEncephaloGram
+EEG C3	EEG	µV	128	n/a	n/a	n/a	good	ElectroEncephaloGram
+EEG Cz	EEG	µV	128	n/a	n/a	n/a	good	ElectroEncephaloGram
+EEG C4	EEG	µV	128	n/a	n/a	n/a	good	ElectroEncephaloGram
+EEG T4	EEG	µV	128	n/a	n/a	n/a	good	ElectroEncephaloGram
+EEG T5	EEG	µV	128	n/a	n/a	n/a	good	ElectroEncephaloGram
+EEG P3	EEG	µV	128	n/a	n/a	n/a	good	ElectroEncephaloGram
+EEG Pz	EEG	µV	128	n/a	n/a	n/a	good	ElectroEncephaloGram
+EEG P4	EEG	µV	128	n/a	n/a	n/a	good	ElectroEncephaloGram
+EEG T6	EEG	µV	128	n/a	n/a	n/a	good	ElectroEncephaloGram
+EEG O1	EEG	µV	128	n/a	n/a	n/a	bad	ElectroEncephaloGram
+EEG O2	EEG	µV	128	n/a	n/a	n/a	good	ElectroEncephaloGram
+EOG VEOG_I	EOG	µV	128	n/a	n/a	n/a	good	ElectroOculoGram
+EOG VEOG_II	EOG	µV	128	n/a	n/a	n/a	good	ElectroOculoGram
+REF_EEG REF_EEG	REF	µV	128	n/a	n/a	n/a	good	Reference
+ECG ECG1	ECG	µV	128	n/a	n/a	n/a	good	ElectroCardioGram
+ECG ECG2	ECG	µV	128	n/a	n/a	n/a	good	ElectroCardioGram
+DIG DTRIG	TRIG	n/a	128	n/a	n/a	n/a	good	Digital Trigger

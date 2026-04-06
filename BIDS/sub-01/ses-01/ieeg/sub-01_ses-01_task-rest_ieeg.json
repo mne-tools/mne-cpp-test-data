@@ -1,0 +1,14 @@
+{
+    "TaskName": "rest",
+    "SamplingFrequency": 1000.0,
+    "PowerLineFrequency": 50.0,
+    "iEEGReference": "Cz",
+    "ECOGChannelCount": 0,
+    "SEEGChannelCount": 0,
+    "EEGChannelCount": 29,
+    "RecordingType": "continuous",
+    "TaskDescription": "Resting state with eyes closed",
+    "Manufacturer": "BrainProducts",
+    "ManufacturerModelName": "BrainAmp DC",
+    "SoftwareVersions": "BrainVision Recorder 1.23"
+}
