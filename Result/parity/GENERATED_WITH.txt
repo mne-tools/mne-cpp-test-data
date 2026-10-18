@@ -1,0 +1,2 @@
+mne 1.11.0, numpy 2.2.6, scipy 1.15.3, scikit-learn 1.7.2
+commit b8c3ee25c9b10d7895163bcd36b821d518de7946
